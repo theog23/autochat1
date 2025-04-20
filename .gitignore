@@ -1,0 +1,27 @@
+# Dependencias
+node_modules/
+
+# Archivos temporales y de build
+.next/
+out/
+
+# Vercel config local
+.vercel/
+
+# Variables de entorno
+.env
+.env.local
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+node_modules/
+.next/
+.env
+.DS_Store
+.vercel/
+node_modules/
+.next/
+.env
+.vercel/
+.DS_Store
